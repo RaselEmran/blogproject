@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x: hidden;
+}
+article{
+    border: 1.5px solid #262626;
+    box-shadow: 5px 5px 6px ;
+    padding: 6px;
+    margin: 4px 0;
+}
+a:hover{
+    text-decoration: none;
+}
+aside h2{
+    background: #9aa000;
+    margin-top: 7px;
+    padding: 8px 0;
+}
+
+.active{
+  background-color:#d90000;
+  color:#fff;
+
+}
+
+footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 25px 0;
+}

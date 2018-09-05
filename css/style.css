@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x: hidden;
+}
+.main-nav ul.navbar-nav li a {
+    color: ;
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.main-nav ul.navbar-nav li a.active,
+.main-nav ul.navbar-nav li a:hover {
+    color:#00e0d0 !imp;
+}
+article{
+    border: 1.5px solid #262626;
+    box-shadow: 5px 5px 6px ;
+    padding: 6px;
+    margin: 4px 0;
+}
+a:hover{
+    text-decoration: none;
+}
+aside h2{
+    background: #9aa000;
+    margin-top: 7px;
+    padding: 8px 0;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 25px 0;
+}
+/*REGISTRATION FORM: .....*/
+.wellcome{
+    background-color: red;
+}
+
+ 
